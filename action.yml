@@ -1,5 +1,7 @@
 # action.yml
 name: 'Hello World from adeslatt'
+icon: award
+color: green
 description: 'Greet someone and record the time'
 inputs:
   who-to-greet:  # id of input
